@@ -1,5 +1,8 @@
 ## Hi there 👋
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+#About me
+
+My name is Ahmed Mahmoud. I am an alumni with a Bachelors Degree in Computer Science. I have experience in JavaScript, HTML, CSS, Python, Java, and C/C++.
+
 
 <!--
 **AhmedNasrMahmoud/AhmedNasrMahmoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
